@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'last_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'barobang',
+        'NAME': 'postgres',
         'USER' : 'rondeur',
         'PASSWORD' : 'Akfhdzn9737!!',
         'HOST' : 'barobang-88.c8xqxqjhf3xl.us-east-2.rds.amazonaws.com',
